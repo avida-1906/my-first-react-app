@@ -1,3 +1,8 @@
+/* 
+  这个是入口文件，相当于vue里边的main.js
+*/
+
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
